@@ -1,0 +1,16 @@
+# Python Requirements
+# House Price Prediction
+# Install with: pip install -r requirements.txt
+
+pandas>=1.3.0
+numpy>=1.21.0
+matplotlib>=3.4.0
+seaborn>=0.11.2
+scikit-learn>=0.24.2
+scipy>=1.7.0
+xgboost>=1.5.0
+
+# Python version: 3.7+
+# Google Colab compatible
+# Dataset: train.csv from Kaggle (not included — download separately)
+# https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
